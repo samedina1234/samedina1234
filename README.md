@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/samedina1234/samedina1234/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/samedina1234/samedina1234/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)"/>
 
 ###
 
