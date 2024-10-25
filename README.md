@@ -83,6 +83,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/samedina1234/samedina1234/output/snake.svg" alt="Snake animation" />
 
 ###
